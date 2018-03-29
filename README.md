@@ -1,2 +1,3 @@
 # geomeetup
-Presentations for the GeoMeetup Zagreb group
+
+A presentation for the GeoMeetup Zagreb group
